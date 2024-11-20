@@ -1,6 +1,6 @@
 import sqlite3
 import sys
-
+# тест
 from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
